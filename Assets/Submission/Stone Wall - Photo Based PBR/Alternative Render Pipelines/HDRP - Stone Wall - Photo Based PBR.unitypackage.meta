@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d5cf36d39f5ae24b889f3e38c5eb899
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160540
+  packageName: Stone Wall - Photo Based PBR
+  packageVersion: 1.1
+  assetPath: Assets/Submission/Stone Wall - Photo Based PBR/Alternative Render Pipelines/HDRP
+    - Stone Wall - Photo Based PBR.unitypackage
+  uploadId: 348999
